@@ -1,9 +1,9 @@
-## Hi there 👋
 # 🛡️ Daniel Fadrique
-### Blue Team Specialist | Ciberseguridad | Incident Response | Threat Hunting
+### Ethical Hacker | SOC Analyst | Threat Intelligence | Blue Team
 
 🧠 **Sobre mí**
-Especialista en **Blue Team** y analista de seguridad defensiva. Enfocado en la detección proactiva de amenazas, respuesta ante incidentes y el endurecimiento de infraestructuras (Hardening). Divulgador de buenas prácticas en ciberseguridad y apasionado por la automatización de la defensa.
+
+Analista de ciberseguridad con experiencia en protección de infraestructuras IT criticas, con habilidades solidas en Threat intelligence, análisis de paquetes de red y respuesta ante incidentes, complemento esas capacidades con técnicas de Red Team, haciendo pruebas de penetración y simulaciones de ataque para comprender la naturaleza de las amenazas y fortalecer sistemas de seguridad.
 
 🥇 **Reconocimiento destacado**
 * 🏆 **Referente en Ciberseguridad Defensiva** en LinkedIn.
