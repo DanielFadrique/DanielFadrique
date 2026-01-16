@@ -32,6 +32,8 @@ Soy un analista de ciberseguridad especializado en la protección preventiva de 
 
 ### Herramientas de Blue Team/Red Team:
 
+<div align="center">
+
 ![Splunk](https://img.shields.io/badge/SPLUNK-LOG%20ANALYSIS-black?style=flat-square&labelColor=555555)
 ![Wireshark](https://img.shields.io/badge/WIRESHARK-NETWORK%20TRAFFIC-005571?style=flat-square&labelColor=555555)
 ![API Monitor](https://img.shields.io/badge/API%20MONITOR-SYSTEM%20CALLS-blue?style=flat-square&labelColor=555555)
@@ -44,6 +46,8 @@ Soy un analista de ciberseguridad especializado en la protección preventiva de 
 ![BurpSuite](https://img.shields.io/badge/BURPSUITE-WEB%20RECON-FF6633?style=flat-square&labelColor=555555)
 ![JohnTheRipper](https://img.shields.io/badge/JOHN%20THE%20RIPPER-PASSWORD%20CRACKER-black?style=flat-square&labelColor=555555)
 ![Metasploit](https://img.shields.io/badge/METASPLOIT-EXPLOIT%20FRAMEWORK-FF4B00?style=flat-square&labelColor=555555)
+
+</div>
 
 -----
 
