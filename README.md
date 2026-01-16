@@ -1,5 +1,8 @@
+
+<div align="center">
 # 🛡️ Daniel Fadrique
 ### Ethical Hacker | SOC Analyst | Threat Intelligence | Blue Team
+</div>
 
 🧠 **Sobre mí**
 
