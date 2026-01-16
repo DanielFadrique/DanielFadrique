@@ -54,13 +54,13 @@ Soy un analista de ciberseguridad especializado en la protección preventiva de 
 <div align="center">
 
 ### 🥷 Threat Intelligence & OSINT
-![MISP](https://img.shields.io/badge/MISP-THREAT%20SHARING-004A99?style=flat-square&labelColor=555555)
-![OpenCTI](https://img.shields.io/badge/OPENCTI-KNOWLEDGE%20GRAPH-00AEEF?style=flat-square&labelColor=555555)
+
+![VirusTotal](https://img.shields.io/badge/VIRUSTOTAL-FILE%20REPUTATION-3949AB?style=flat-square&labelColor=555555)
 ![Maltego](https://img.shields.io/badge/MALTEGO-LINK%20ANALYSIS-F7941E?style=flat-square&labelColor=555555)
 ![SpiderFoot](https://img.shields.io/badge/SPIDERFOOT-OSINT%20AUTOMATION-FF4B00?style=flat-square&labelColor=555555)
 ![Shodan](https://img.shields.io/badge/SHODAN-ASSET%20DISCOVERY-black?style=flat-square&labelColor=555555)
-![VirusTotal](https://img.shields.io/badge/VIRUSTOTAL-FILE%20REPUTATION-3949AB?style=flat-square&labelColor=555555)
-
+![PhoneInfoga](https://img.shields.io/badge/PHONEINFOGA-PHONE%20OSINT-FFD700?style=flat-square&labelColor=555555)
+![Sherlock](https://img.shields.io/badge/SHERLOCK-USER%20ENUMERATION-228B22?style=flat-square&labelColor=555555)
 </div>
 
 -------
