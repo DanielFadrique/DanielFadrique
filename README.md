@@ -48,7 +48,6 @@ Soy un analista de ciberseguridad especializado en la protección preventiva de 
 
 ![MISP](https://img.shields.io/badge/MISP-004A99?style=for-the-badge&logo=misp&logoColor=white)
 ![OpenCTI](https://img.shields.io/badge/OpenCTI-00AEEF?style=for-the-badge)
-![Recorded Future](https://img.shields.io/badge/Recorded_Future-000000?style=for-the-badge)
 ![Maltego](https://img.shields.io/badge/Maltego-F7941E?style=for-the-badge&logo=maltego&logoColor=white)
 ![SpiderFoot](https://img.shields.io/badge/SpiderFoot-FF4B00?style=for-the-badge)
 ![Shodan](https://img.shields.io/badge/Shodan-000000?style=for-the-badge&logo=shodan&logoColor=white)
