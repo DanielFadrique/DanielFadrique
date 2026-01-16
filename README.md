@@ -42,6 +42,14 @@ Soy un analista de ciberseguridad especializado en la protección preventiva de 
 ![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burp-suite&logoColor=white)
 ![Nmap](https://img.shields.io/badge/Nmap-4F5D95?style=for-the-badge&logo=nmap&logoColor=white)
 
+![SIEM](https://img.shields.io/badge/WAZUH-SIEM%20%26%20XDR-blue?style=flat-square&labelColor=555555)
+![THREAT INTEL](https://img.shields.io/badge/MISP-THREAT%20INTELLIGENCE-orange?style=flat-square&labelColor=555555)
+![DFIR](https://img.shields.io/badge/AUTOPSY-DIGITAL%20FORENSICS-purple?style=flat-square&labelColor=555555)
+
+![MONITORING](https://img.shields.io/badge/SPLUNK-LOG%20ANALYSIS-black?style=flat-square&labelColor=555555)
+![TRAFFIC](https://img.shields.io/badge/WIRESHARK-NETWORK%20TRAFFIC-005571?style=flat-square&labelColor=555555)
+![EDR](https://img.shields.io/badge/VELOCIRAPTOR-ENDPOINT%20EDR-cc0000?style=flat-square&labelColor=555555)
+
 ![OSINT](https://img.shields.io/badge/MALTEGO-OSINT%20ANALYSIS-yellow?style=flat-square&labelColor=555555)
 ![AUTOMATION](https://img.shields.io/badge/PYTHON-SEC%20AUTOMATION-3776AB?style=flat-square&labelColor=555555)
 ![IDS](https://img.shields.io/badge/SURICATA-INTRUSION%20DETECTION-EF3B2D?style=flat-square&labelColor=555555)
