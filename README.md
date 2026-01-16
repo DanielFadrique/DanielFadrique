@@ -30,8 +30,9 @@ Analista de ciberseguridad con experiencia en protección de infraestructuras IT
 ---
 
 ### ⚙️ Tecnologías y herramientas que utilizo:
-
-[![Mis Habilidades](https://skillicons.dev/icons?i=linux,windows,kali,py,bash,powershell,mysql,docker,wireshark,virustotal)](https://skillicons.dev)
+<p>
+ [![Mis Habilidades](https://skillicons.dev/icons?i=linux,windows,kali,py,bash,powershell,mysql,docker,wireshark,virustotal)](https://skillicons.dev)
+</p>
 
 ---
 
