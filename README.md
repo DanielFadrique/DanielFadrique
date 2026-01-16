@@ -51,14 +51,17 @@ Soy un analista de ciberseguridad especializado en la protección preventiva de 
 
 -----
 
-### Herramientas de Threat Intelligence:
+<div align="center">
 
-![MISP](https://img.shields.io/badge/MISP-004A99?style=for-the-badge&logo=misp&logoColor=white)
-![OpenCTI](https://img.shields.io/badge/OpenCTI-00AEEF?style=for-the-badge)
-![Maltego](https://img.shields.io/badge/Maltego-F7941E?style=for-the-badge&logo=maltego&logoColor=white)
-![SpiderFoot](https://img.shields.io/badge/SpiderFoot-FF4B00?style=for-the-badge)
-![Shodan](https://img.shields.io/badge/Shodan-000000?style=for-the-badge&logo=shodan&logoColor=white)
-![VirusTotal](https://img.shields.io/badge/VirusTotal-3949AB?style=for-the-badge&logo=virustotal&logoColor=white)
+###  Threat Intelligence & OSINT
+![MISP](https://img.shields.io/badge/MISP-THREAT%20SHARING-004A99?style=flat-square&labelColor=555555)
+![OpenCTI](https://img.shields.io/badge/OPENCTI-KNOWLEDGE%20GRAPH-00AEEF?style=flat-square&labelColor=555555)
+![Maltego](https://img.shields.io/badge/MALTEGO-LINK%20ANALYSIS-F7941E?style=flat-square&labelColor=555555)
+![SpiderFoot](https://img.shields.io/badge/SPIDERFOOT-OSINT%20AUTOMATION-FF4B00?style=flat-square&labelColor=555555)
+![Shodan](https://img.shields.io/badge/SHODAN-ASSET%20DISCOVERY-black?style=flat-square&labelColor=555555)
+![VirusTotal](https://img.shields.io/badge/VIRUSTOTAL-FILE%20REPUTATION-3949AB?style=flat-square&labelColor=555555)
+
+</div>
 
 -------
 
