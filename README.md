@@ -3,15 +3,18 @@
 <h3 align="center">Ethical Hacker | SOC Analyst | Threat Intelligence | Blue Team</h3>
 
 
-🧠 **Sobre mí**
+## 🧠 **Sobre mí**
 
 Analista de ciberseguridad con experiencia en protección de infraestructuras IT criticas, con habilidades solidas en Threat intelligence, análisis de paquetes de red y respuesta ante incidentes, complemento esas capacidades con técnicas de Red Team, haciendo pruebas de penetración y simulaciones de ataque para comprender la naturaleza de las amenazas y fortalecer sistemas de seguridad.
 
 -----------------------
 
 
-🥇 **Reconocimiento destacado**
-* 🏆 **Top 1000 en la plataforma HackTheBox** 
+## 🥇 **Reconocimiento destacado**
+
+img
+
+ 🏆 **Top 1000 en la plataforma HackTheBox** 
 
 🎓 **Mi enfoque principal**
 💥 **Resiliencia y Respuesta:** No se trata de si entrarán, sino de qué tan rápido los detectamos y expulsamos.  
