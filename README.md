@@ -13,7 +13,7 @@ Analista de ciberseguridad con experiencia en protección de infraestructuras IT
 
 ## 🥇 **Reconocimiento destacado**
 
-<p>
+<p align="center">
  <img src="https://github.com/DanielFadrique/DanielFadrique/blob/main/logro_HTB.png?raw=true" alt="logro_HTB"/>
 </p>
 
