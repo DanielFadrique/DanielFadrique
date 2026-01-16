@@ -32,27 +32,18 @@ Soy un analista de ciberseguridad especializado en la protección preventiva de 
 
 ### Herramientas de Blue Team/Red Team:
 
-![Wazuh](https://img.shields.io/badge/Wazuh-00a9e0?style=for-the-badge&logo=wazuh&logoColor=white)
-![Splunk](https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white)
-![ELK](https://img.shields.io/badge/ELK_Stack-005571?style=for-the-badge&logo=elastic-stack&logoColor=white)
-![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
-![Suricata](https://img.shields.io/badge/Suricata-EF3B2D?style=for-the-badge&logo=suricata&logoColor=white)
+![Splunk](https://img.shields.io/badge/SPLUNK-LOG%20ANALYSIS-black?style=flat-square&labelColor=555555)
+![Wireshark](https://img.shields.io/badge/WIRESHARK-NETWORK%20TRAFFIC-005571?style=flat-square&labelColor=555555)
+![API Monitor](https://img.shields.io/badge/API%20MONITOR-SYSTEM%20CALLS-blue?style=flat-square&labelColor=555555)
+![Volatility3](https://img.shields.io/badge/VOLATILITY3-MEMORY%20FORENSICS-purple?style=flat-square&labelColor=555555)
+![Suricata](https://img.shields.io/badge/SURICATA-IDS%20%2F%20IPS-EF3B2D?style=flat-square&labelColor=555555)
+![Python](https://img.shields.io/badge/PYTHON-CUSTOM%20SCRIPTS-3776AB?style=flat-square&labelColor=555555)
 
-![Metasploit](https://img.shields.io/badge/Metasploit-FF4B00?style=for-the-badge&logo=metasploit&logoColor=white)
-![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burp-suite&logoColor=white)
-![Nmap](https://img.shields.io/badge/Nmap-4F5D95?style=for-the-badge&logo=nmap&logoColor=white)
 
-![SIEM](https://img.shields.io/badge/WAZUH-SIEM%20%26%20XDR-blue?style=flat-square&labelColor=555555)
-![THREAT INTEL](https://img.shields.io/badge/MISP-THREAT%20INTELLIGENCE-orange?style=flat-square&labelColor=555555)
-![DFIR](https://img.shields.io/badge/AUTOPSY-DIGITAL%20FORENSICS-purple?style=flat-square&labelColor=555555)
-
-![MONITORING](https://img.shields.io/badge/SPLUNK-LOG%20ANALYSIS-black?style=flat-square&labelColor=555555)
-![TRAFFIC](https://img.shields.io/badge/WIRESHARK-NETWORK%20TRAFFIC-005571?style=flat-square&labelColor=555555)
-![EDR](https://img.shields.io/badge/VELOCIRAPTOR-ENDPOINT%20EDR-cc0000?style=flat-square&labelColor=555555)
-
-![OSINT](https://img.shields.io/badge/MALTEGO-OSINT%20ANALYSIS-yellow?style=flat-square&labelColor=555555)
-![AUTOMATION](https://img.shields.io/badge/PYTHON-SEC%20AUTOMATION-3776AB?style=flat-square&labelColor=555555)
-![IDS](https://img.shields.io/badge/SURICATA-INTRUSION%20DETECTION-EF3B2D?style=flat-square&labelColor=555555)
+![Nmap](https://img.shields.io/badge/NMAP-NETWORK%20SCANNER-4F5D95?style=flat-square&labelColor=555555)
+![BurpSuite](https://img.shields.io/badge/BURPSUITE-WEB%20RECON-FF6633?style=flat-square&labelColor=555555)
+![JohnTheRipper](https://img.shields.io/badge/JOHN%20THE%20RIPPER-PASSWORD%20CRACKER-black?style=flat-square&labelColor=555555)
+![Metasploit](https://img.shields.io/badge/METASPLOIT-EXPLOIT%20FRAMEWORK-FF4B00?style=flat-square&labelColor=555555)
 
 -----
 
