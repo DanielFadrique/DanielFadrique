@@ -18,7 +18,7 @@ Analista de ciberseguridad con experiencia en protección de infraestructuras IT
 </p>
 
 <p align="center">
-  🏆 **Top 1000 en la plataforma HackTheBox** 
+  🏆 <strong>Top 1000 en la plataforma HackTheBox</strong>
 </p>
 
 ------
