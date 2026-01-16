@@ -1,12 +1,13 @@
 <img src="https://github.com/DanielFadrique/DanielFadrique/blob/main/banner.jpg?raw=true" alt="Banne Daniel Fadrique Esteban" width="1080" />
 
 <h1 align="center">🛡️ Daniel Fadrique Esteban</h1>
-<h3 align="center">Ethical Hacker | SOC Analyst | Threat Intelligence | Blue Team</h3>
+<h3 align="center">Ethical Hacker | Threat Intelligence | Blue Team</h3><br>
 
+-------------------
 
 ## 🧠 **Sobre mí**
 
-Analista de ciberseguridad con experiencia en protección de infraestructuras IT criticas, con habilidades solidas en Threat intelligence, análisis de paquetes de red y respuesta ante incidentes, complemento esas capacidades con técnicas de Red Team, haciendo pruebas de penetración y simulaciones de ataque para comprender la naturaleza de las amenazas y fortalecer sistemas de seguridad.
+Soy un analista de ciberseguridad con experiencia en protección de infraestructuras IT criticas, en donde el Threat Intelligence es mi base, analizo , complemento esas capacidades con técnicas de Red Team, haciendo pruebas de penetración y simulaciones de ataque para comprender la naturaleza de las amenazas y fortalecer sistemas de seguridad.
 
 -----------------------
 
@@ -21,16 +22,10 @@ Analista de ciberseguridad con experiencia en protección de infraestructuras IT
   🏆 <strong>Top 1000 en la plataforma HackTheBox</strong>
 </p>
 
-------
+-----
 
-🎓 **Mi enfoque principal**
-💥 **Resiliencia y Respuesta:** No se trata de si entrarán, sino de qué tan rápido los detectamos y expulsamos.  
-📈 **Cultura de Seguridad:** Ayudo a empresas y profesionales a construir defensas sólidas desde la base técnica.
-
----
 
 ### ⚙️ Tecnologías y herramientas que utilizo:
-
 
  [![Mis Habilidades](https://skillicons.dev/icons?i=linux,windows,kali,raspberrypi,py,bash,powershell,vscode,mysql,docker,neovim,latex,postman)](https://skillicons.dev)
 
