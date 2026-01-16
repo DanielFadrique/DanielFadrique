@@ -17,7 +17,11 @@ Analista de ciberseguridad con experiencia en protección de infraestructuras IT
  <img src="https://github.com/DanielFadrique/DanielFadrique/blob/main/logro_HTB.png?raw=true" alt="logro_HTB"/>
 </p>
 
- 🏆 **Top 1000 en la plataforma HackTheBox** 
+<p align="center">
+  🏆 **Top 1000 en la plataforma HackTheBox** 
+</p>
+
+------
 
 🎓 **Mi enfoque principal**
 💥 **Resiliencia y Respuesta:** No se trata de si entrarán, sino de qué tan rápido los detectamos y expulsamos.  
@@ -25,26 +29,9 @@ Analista de ciberseguridad con experiencia en protección de infraestructuras IT
 
 ---
 
-### ⚙️ Tecnologías y herramientas de defensa
+### ⚙️ Tecnologías y herramientas que utilizo:
 
-🛡️ **Blue Team & Monitoring**
-![SIEM](https://img.shields.io/badge/-SIEM-blue?style=flat-square) 
-![Wazuh](https://img.shields.io/badge/-Wazuh-00a9e0?style=flat-square&logo=wazuh&logoColor=white)
-![Splunk](https://img.shields.io/badge/-Splunk-black?style=flat-square&logo=splunk&logoColor=white)
-![Wireshark](https://img.shields.io/badge/-Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white)
-![ELK Stack](https://img.shields.io/badge/-ELK%20Stack-005571?style=flat-square&logo=elastic-stack&logoColor=white)
-![CrowdStrike](https://img.shields.io/badge/-EDR/XDR-cc0000?style=flat-square)
-
-🕵️ **Digital Forensics & OSINT (Defense)**
-![Autopsy](https://img.shields.io/badge/-Autopsy-blueviolet?style=flat-square)
-![Volatility](https://img.shields.io/badge/-Volatility-grey?style=flat-square)
-![VirusTotal](https://img.shields.io/badge/-VirusTotal-3949AB?style=flat-square&logo=virustotal&logoColor=white)
-![Maltego](https://img.shields.io/badge/-Threat%20Intel-orange?style=flat-square)
-
-📊 **Lenguajes para automatización (SecOps)**
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Bash](https://img.shields.io/badge/-Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white)
-![PowerShell](https://img.shields.io/badge/-PowerShell-53C1DE?style=flat-square&logo=powershell&logoColor=white)
+[![Mis Habilidades](https://skillicons.dev/icons?i=linux,windows,kali,ubuntu,py,bash,powershell,mysql)](https://skillicons.dev)
 
 ---
 
