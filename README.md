@@ -30,20 +30,19 @@ Analista de ciberseguridad con experiencia en protección de infraestructuras IT
 ---
 
 ### ⚙️ Tecnologías y herramientas que utilizo:
-<p>
+
+
  [![Mis Habilidades](https://skillicons.dev/icons?i=linux,windows,kali,py,bash,powershell,mysql,docker,wireshark,virustotal)](https://skillicons.dev)
-</p>
 
 ---
 
 ### 📈 Estadísticas de GitHub
-![Tus Estadísticas](https://github-readme-stats.vercel.app/api?username=TU_USUARIO_AQUÍ&show_icons=true&theme=tokyonight)
+![Tus Estadísticas](https://github-readme-stats.vercel.app/api?username=DanielFadrique&show_icons=true&theme=tokyonight)
 
 ---
 
 ### 🌐 Conecta conmigo:
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/TU_PERFIL)
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/TU_USUARIO)
-[![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:tu-email@ejemplo.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/danielfadrique)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:fadriquesmr99@gmail.com)
 
 "La mejor defensa es un ataque... bien comprendido y mitigado." 🛡️✨
