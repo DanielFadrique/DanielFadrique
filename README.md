@@ -1,3 +1,4 @@
+<img src="https://github.com/DanielFadrique/DanielFadrique/blob/main/banner.jpg?raw=true" alt="Banne Daniel Fadrique Esteban" width="1080"/>
 
 <h1 align="center">🛡️ Daniel Fadrique Esteban</h1>
 <h3 align="center">Ethical Hacker | SOC Analyst | Threat Intelligence | Blue Team</h3>
