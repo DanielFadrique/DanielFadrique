@@ -1,4 +1,4 @@
-<img src="https://github.com/DanielFadrique/DanielFadrique/blob/main/banner.jpg?raw=true" alt="Banne Daniel Fadrique Esteban" width="1080"/>
+<img src="https://github.com/DanielFadrique/DanielFadrique/blob/main/banner.jpg?raw=true" alt="Banne Daniel Fadrique Esteban" width="1080" />
 
 <h1 align="center">🛡️ Daniel Fadrique Esteban</h1>
 <h3 align="center">Ethical Hacker | SOC Analyst | Threat Intelligence | Blue Team</h3>
@@ -13,7 +13,9 @@ Analista de ciberseguridad con experiencia en protección de infraestructuras IT
 
 ## 🥇 **Reconocimiento destacado**
 
-img
+<p>
+ <img src="https://github.com/DanielFadrique/DanielFadrique/blob/main/logro_HTB.png?raw=true" alt="logro_HTB"/>
+</p>
 
  🏆 **Top 1000 en la plataforma HackTheBox** 
 
