@@ -7,7 +7,7 @@
 
 ## 🧠 **Sobre mí**
 
-Soy un analista de ciberseguridad con experiencia en protección de infraestructuras IT criticas, en donde el Threat Intelligence es mi base, analizo , complemento esas capacidades con técnicas de Red Team, haciendo pruebas de penetración y simulaciones de ataque para comprender la naturaleza de las amenazas y fortalecer sistemas de seguridad.
+Soy un analista de ciberseguridad especializado en la protección preventiva de infraestructuras IT críticas, en donde el Threat Intelligence es mi base para poder vigilar las redes empresariales y no permitir el paso a intrusos que vulneren a los usuarios. Complemento esas capacidades con técnicas de ataque a dichos sistemas, haciendo pruebas de penetración y simulaciones de ataque para comprender la naturaleza de las amenazas y fortalecer los sistemas de seguridad gracias a esta comprensión.
 
 -----------------------
 
@@ -24,14 +24,24 @@ Soy un analista de ciberseguridad con experiencia en protección de infraestruct
 
 -----
 
-
 ### ⚙️ Tecnologías y herramientas que utilizo:
 
- [![Mis Habilidades](https://skillicons.dev/icons?i=linux,windows,kali,raspberrypi,py,bash,powershell,vscode,mysql,docker,neovim,latex,postman)](https://skillicons.dev)
+[![Mis Habilidades](https://skillicons.dev/icons?i=linux,windows,kali,raspberrypi,py,bash,powershell,vscode,mysql,docker,neovim,latex,postman)](https://skillicons.dev)
 
 ---
 
+### Herramientas de Blue Team:
+
+![Wazuh](https://img.shields.io/badge/Wazuh-00a9e0?style=for-the-badge&logo=wazuh&logoColor=white)
+![Splunk](https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white)
+![ELK](https://img.shields.io/badge/ELK_Stack-005571?style=for-the-badge&logo=elastic-stack&logoColor=white)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
+![Suricata](https://img.shields.io/badge/Suricata-EF3B2D?style=for-the-badge&logo=suricata&logoColor=white)
+
+-----
+
 ### 📈 Estadísticas de GitHub
+
 ![Tus Estadísticas](https://github-readme-stats.vercel.app/api?username=DanielFadrique&show_icons=true&theme=tokyonight)
 
 ---
