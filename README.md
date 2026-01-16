@@ -68,13 +68,12 @@ Soy un analista de ciberseguridad especializado en la protección preventiva de 
 
 ### 🌐 Conecta conmigo:
 <div align="center">
+ 
+[![GitHub](https://img.shields.io/badge/GITHUB-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/TU_USUARIO)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/TU_USUARIO)
+[![Email](https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tu-email@ejemplo.com)
+[![HackTheBox](https://img.shields.io/badge/HACKTHEBOX-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black)](https://app.hackthebox.com/users/TU_ID)
 
-[![Github](https://img.shields.io/badge/GITHUB-DANIEL%20FADRIQUE-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=555555)](https://github.com/danielfadrique)
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-CONECTAR-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=555555)](https://linkedin.com/in/danioelfadrique)
-[![Email](https://img.shields.io/badge/GMAIL-CONTACTAR-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=555555)](mailto:fadriquesmr99@gmail.com)
-[![HTB](https://img.shields.io/badge/HACKTHEBOX-RANK%20%23960-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black&labelColor=555555)](https://app.hackthebox.com/users/2428838)
-
-</div>
-
+</div><br><br>
 
 *“Pax et Libertas”* 	🏛️
