@@ -30,7 +30,7 @@ Soy un analista de ciberseguridad especializado en la protección preventiva de 
 
 ---
 
-### Herramientas de Blue Team/Red Team:
+### 🔵🔴 Herramientas de Blue Team/Red Team:
 
 <div align="center">
 
@@ -53,7 +53,7 @@ Soy un analista de ciberseguridad especializado en la protección preventiva de 
 
 <div align="center">
 
-###  Threat Intelligence & OSINT
+### 🥷 Threat Intelligence & OSINT
 ![MISP](https://img.shields.io/badge/MISP-THREAT%20SHARING-004A99?style=flat-square&labelColor=555555)
 ![OpenCTI](https://img.shields.io/badge/OPENCTI-KNOWLEDGE%20GRAPH-00AEEF?style=flat-square&labelColor=555555)
 ![Maltego](https://img.shields.io/badge/MALTEGO-LINK%20ANALYSIS-F7941E?style=flat-square&labelColor=555555)
@@ -64,12 +64,6 @@ Soy un analista de ciberseguridad especializado en la protección preventiva de 
 </div>
 
 -------
-
-### 📈 Estadísticas de GitHub
-
-![Tus Estadísticas](https://github-readme-stats.vercel.app/api?username=DanielFadrique&show_icons=true&theme=tokyonight)
-
----
 
 ### 🌐 Conecta conmigo:
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/danielfadrique)
