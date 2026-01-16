@@ -12,7 +12,7 @@ Soy un analista de ciberseguridad especializado en la protección preventiva de 
 -----------------------
 
 
-## 🥇 **Reconocimiento destacado**
+### 🥇 **Reconocimiento destacado**
 
 <p align="center">
  <img src="https://github.com/DanielFadrique/DanielFadrique/blob/main/logro_HTB.png?raw=true" alt="logro_HTB" width="400"/>
@@ -51,10 +51,11 @@ Soy un analista de ciberseguridad especializado en la protección preventiva de 
 
 -----
 
-<div align="center">
+
 
 ### 🥷 Threat Intelligence & OSINT
-
+<div align="center">
+ 
 ![VirusTotal](https://img.shields.io/badge/VIRUSTOTAL-FILE%20REPUTATION-3949AB?style=flat-square&labelColor=555555)
 ![MISP](https://img.shields.io/badge/MISP-THREAT%20SHARING-004A99?style=flat-square&labelColor=555555)
 ![SpiderFoot](https://img.shields.io/badge/SPIDERFOOT-OSINT%20AUTOMATION-FF4B00?style=flat-square&labelColor=555555)
@@ -74,5 +75,6 @@ Soy un analista de ciberseguridad especializado en la protección preventiva de 
 [![HTB](https://img.shields.io/badge/HACKTHEBOX-RANK%20%23960-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black&labelColor=555555)](https://app.hackthebox.com/users/2428838)
 
 </div>
+
 
 *“Pax et Libertas”* 	🏛️
