@@ -1,5 +1,5 @@
 
-<h1 align="center">🛡️ Daniel Fadrique</h1>
+<h1 align="center">🛡️ Daniel Fadrique Esteban</h1>
 <h3 align="center">Ethical Hacker | SOC Analyst | Threat Intelligence | Blue Team</h3>
 
 
@@ -7,9 +7,11 @@
 
 Analista de ciberseguridad con experiencia en protección de infraestructuras IT criticas, con habilidades solidas en Threat intelligence, análisis de paquetes de red y respuesta ante incidentes, complemento esas capacidades con técnicas de Red Team, haciendo pruebas de penetración y simulaciones de ataque para comprender la naturaleza de las amenazas y fortalecer sistemas de seguridad.
 
+-----------------------
+
+
 🥇 **Reconocimiento destacado**
-* 🏆 **Referente en Ciberseguridad Defensiva** en LinkedIn.
-* 🛡️ Especialista certificado en defensa de perímetros y SOC Analysis.
+* 🏆 **Top 1000 en la plataforma HackTheBox** 
 
 🎓 **Mi enfoque principal**
 💥 **Resiliencia y Respuesta:** No se trata de si entrarán, sino de qué tan rápido los detectamos y expulsamos.  
