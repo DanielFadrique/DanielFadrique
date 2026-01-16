@@ -66,7 +66,13 @@ Soy un analista de ciberseguridad especializado en la protección preventiva de 
 -------
 
 ### 🌐 Conecta conmigo:
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/danielfadrique)
-[![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:fadriquesmr99@gmail.com)
+<div align="center">
 
-"La mejor defensa es un ataque... bien comprendido y mitigado." 🛡️✨
+[![Github](https://img.shields.io/badge/GITHUB-DANIEL%20FADRIQUE-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=555555)](https://github.com/danielfadrique)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-CONECTAR-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=555555)](https://linkedin.com/in/danioelfadrique)
+[![Email](https://img.shields.io/badge/GMAIL-CONTACTAR-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=555555)](mailto:fadriquesmr99@gmail.com)
+[![HTB](https://img.shields.io/badge/HACKTHEBOX-RANK%20%23960-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black&labelColor=555555)](https://app.hackthebox.com/users/2428838)
+
+</div>
+
+*“Pax et Libertas”* 	🏛️
