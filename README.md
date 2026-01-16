@@ -30,13 +30,17 @@ Soy un analista de ciberseguridad especializado en la protección preventiva de 
 
 ---
 
-### Herramientas de Blue Team:
+### Herramientas de Blue Team/Red Team:
 
 ![Wazuh](https://img.shields.io/badge/Wazuh-00a9e0?style=for-the-badge&logo=wazuh&logoColor=white)
 ![Splunk](https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white)
 ![ELK](https://img.shields.io/badge/ELK_Stack-005571?style=for-the-badge&logo=elastic-stack&logoColor=white)
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
 ![Suricata](https://img.shields.io/badge/Suricata-EF3B2D?style=for-the-badge&logo=suricata&logoColor=white)
+
+![Metasploit](https://img.shields.io/badge/Metasploit-FF4B00?style=for-the-badge&logo=metasploit&logoColor=white)
+![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burp-suite&logoColor=white)
+![Nmap](https://img.shields.io/badge/Nmap-4F5D95?style=for-the-badge&logo=nmap&logoColor=white)
 
 -----
 
