@@ -19,7 +19,7 @@ Soy un analista de ciberseguridad especializado en la protección preventiva de 
 </p>
 
 <p align="center">
-  🏆 <strong>Top 1000 en la plataforma HackTheBox</strong>
+  🏆 <strong>Top 900 en la plataforma HackTheBox</strong>
 </p>
 
 -----
